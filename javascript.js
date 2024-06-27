@@ -3,7 +3,7 @@ function playerdices(){
     return randomNumber1;
 }
 
-var array = ["./dice1.png","./dice2.png","./dice3png","./dice4.png","./dice5.png","./dice6.png"]
+var array = ["./dice1.png","./dice2.png","./dice3.png","./dice4.png","./dice5.png","./dice6.png"]
 random1 = playerdices();
 random2 = playerdices();
 pd1 = array[random1];
